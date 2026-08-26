@@ -1,0 +1,9 @@
+{
+  "name":"GPT Chime Demo",
+  "short_name":"GPT Chime",
+  "start_url":"./Index.html",
+  "display":"standalone",
+  "background_color":"#ffffff",
+  "theme_color":"#087f5b",
+  "description":"A fictional, functional banking UI demonstration."
+}
